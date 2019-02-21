@@ -1,0 +1,143 @@
+== Changelog ==
+
+= 1.8.1
+* 11/26/2017
+* Fixed top bar disply, fixed nav display
+* Known issue: transparent nav on top of banner/slider is not displaying as expected.
+
+= 1.8
+* 11/25/2017
+* New: slideshow can now have 10 slides
+* New: testimonials can now have max 10 items
+* New: team section can now have max 10 team members
+* New: logos section can now have max 10 logos
+* New: Declared woocommerce suppport
+* New: Changed update json link
+* Fix: woocommerce.php, removed comments template
+* Fix: WooCommerce styling
+* Fix: Banner overlap on internal pages
+
+= 1.7.2
+* 05/17/2017
+* Fixed menu item titles (`wp_bootstrap_navwalker`)
+* Fixed mobile nav single page scroll items
+* Used get_stylesheet_directory instead of get_template_directory in some places
+* Fixed missing entry-title, author, updated errors (https://www.wpcub.com/fix-missing-required-field-entry-titleupdatehcard-error-in-wordpress/)
+* Fixed logos display (images are now responsive)
+* Up to 10 testimonials can now be added
+
+= 1.7.1
+* 04/17/2017
+* Fixed slider caption formatting on small screens (left and right aligned)
+* Added team members (max 6 now)
+* vega_wp_prev_bg, vega_wp_curr_bg variables removed, not needed any more
+* WC zoom, lightbox, slider support added
+* Added more WC styling
+* green.css footer widget link color fixed
+* Adjusted social media icons/links for front page team section
+
+= 1.7
+* 01/28/2017 [Major Update]
+* Removed usage of vega_wp_rand_page()
+* Added post and page sidebars
+* Not loading Raleway anymore
+* New: Added background/filter color options for call to action rows
+* New: Option to choose heading/title location under Posts, Pages (In Banner, In Body, In Banner and Body)
+* New: "Add New Page" links in customizer
+* New: Frontpage section background colors
+* New: Simple Banner option added (shows simple responsive image, no parallax)
+* Fixed custom fonts bug
+* Fix for SiteOrigin Page Builder (CTA, CTA2, Open Content)
+* Extended Latin font subsets included
+* Advanced > Custom CSS field removed if not needed
+
+= 1.6.1.1 =
+* 11/07/2016
+* Bug fix for custom colors and fonts
+
+= 1.6.1 =
+* 11/06/2016
+* Bug fix for custom colors and fonts
+
+= 1.6 =
+* 11/06/2016 [Major Update]
+* font-awesome updated to version 4.7
+* Customizer variable changed to vega_wp_blog_feed_readmore_text from vega_wp_blog_feed_readme_text
+* date_format was not working with get_the_date, specifying format explicitly now
+* woocommerce.php added
+* vega_wp_title updated to include checks for WooCommerce
+* Tested qTranslateX, added some styling for sidebar flags widget
+* apply_filters( 'the_content'... for front page content blocks
+* Back to Top arrow, other arrows changed to font-awesome
+* Added filter to disable checking wp.org for update 
+* Some sample images updated
+* Top navbar with 2 new menus added (top left, top right)
+* Reworked nav-wrapper class and now adding height using jQuery to account for large number of navbar items (see resize_nav_wrapper)
+* Styling updated, use of font Raleway discontinued
+* Fixed parallax background overlay bug on mobile devices
+* Removed usage of file_get_contents to load custom styling
+* Bootstrap column classes function altered
+
+= 1.5 =
+* 10/06/2016 
+* Fix for video slider (only the last video in the slider was playing if there were multiple videos)
+* Fix for video slide positioning
+* Error notices for blog feed buttons fixed
+* Banner (none) padding decreased
+* New: Blog button labels can be customized 
+* New: Top nav parent dropdown can be enabled
+
+= 1.4.2 =
+* 09/23/2016
+* Fixed for top menu, now using class .menu-header instead of ID
+* Formatting for Jetpack comment notification labels
+* Translation file updated
+* function_exists() used for appropriate function definitions
+
+= 1.4.1 =
+* 09/15/2016
+* Fixes for animated headings malfunctioning in Safari
+* Further tweaks to transparent top nav bar
+* Internal page banners padding increased
+
+= 1.4 =
+* 09/14/2016
+* Icon columns description fixed to accept HTML
+* Icon columns icons and heading linked to URL
+* New: Icon columns "Read More" button is now customizable/removable
+* Featured pages heading linked to URL, if provided
+* Team member name linked to URL if provided
+* Font Awesome updated to version 4.6.3
+* style.css some subject tags removed
+* New: Top nav bar customization options (opacity, color, position) added
+* Overhauled custom fonts, custom colors, and custom nav CSS in functions.php
+
+= 1.3.1 = 
+* 09/05/2016
+* Fixed post title issue for single.php
+* Fixed header banner heading color 
+* Internal header padding adjusted
+
+= 1.3 =
+* Fixed custom logo display issue
+* vega_wp_title() updated to match free version
+* Image banners - redone. Fixed for mobile phones. Padding adjusted for different screen sizes.
+* CTA sections background fixes
+* Reorganized Colors and Logo sections in Customizer
+* Escaped output throughout frontpage parts
+
+= 1.2.1 =
+* Fixed custom logo issue
+* vega_wp_enable_demo() function fixed
+* New: Added "Crimson Text" font option
+
+= 1.2 =
+* CSS fixes
+* New: Added one more Call to Action row
+* Fixed 'show buttons' bug on recent posts on front page
+* Testimonials slider interval increased and height fixed to the longest testimonial
+* New: Home page banners have a parallax effect now
+
+= 1.0 =
+* Initial release
+* Released: April 20, 2016
