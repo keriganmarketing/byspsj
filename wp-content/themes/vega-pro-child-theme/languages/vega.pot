@@ -1,0 +1,1249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vega Lote\n"
+"POT-Creation-Date: 2017-01-28 22:44-0600\n"
+"PO-Revision-Date: 2016-03-13 23:24-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_x;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: color-schemes\n"
+"X-Poedit-SearchPathExcluded-2: includes\n"
+"X-Poedit-SearchPathExcluded-3: sample\n"
+
+#: 404.php:16
+msgid "Page Not Found"
+msgstr ""
+
+#: comments.php:15
+#, php-format
+msgid "One response to %s"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "%1$s response to %2$s"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: customize/customizer.php:16
+msgid "THEME INFO"
+msgstr ""
+
+#: customize/customizer.php:24
+msgid "&nbsp;"
+msgstr ""
+
+#: customize/customizer.php:28
+msgid "General Setup"
+msgstr ""
+
+#: customize/customizer.php:32
+msgid "Enable Demo?"
+msgstr ""
+
+#: customize/customizer.php:37
+msgid ""
+"When the theme is first installed, the demo mode would be turned on. This "
+"will display some sample/example content to show you how the website can be "
+"possibly set up. When you are comfortable with the theme options, you should "
+"turned this off."
+msgstr ""
+
+#: customize/customizer.php:40 customize/customizer.php:1051
+msgid "Enable Animations?"
+msgstr ""
+
+#: customize/customizer.php:45
+msgid "By default, animations are enabled."
+msgstr ""
+
+#: customize/customizer.php:48
+msgid "Enable Admin Bar on Frontend?"
+msgstr ""
+
+#: customize/customizer.php:53
+msgid "By default, admin bar is enabled."
+msgstr ""
+
+#: customize/customizer.php:59
+msgid "Copyright text. Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:67
+msgid "Show Image Logo?"
+msgstr ""
+
+#: customize/customizer.php:72
+msgid "Choose whether to display the logo image set up under `Site Identity`"
+msgstr ""
+
+#: customize/customizer.php:80
+msgid ""
+"Displayed when `Show Image Logo?` is `No` or if there is no logo image "
+"uploaded."
+msgstr ""
+
+#: customize/customizer.php:88
+msgid "Select Color Scheme"
+msgstr ""
+
+#: customize/customizer.php:93
+msgid ""
+"Choose a color scheme. Default color scheme is Orange. Choose \"Custom\" to "
+"choose your own colors below."
+msgstr ""
+
+#: customize/customizer.php:97
+msgid "Text/body Color"
+msgstr ""
+
+#: customize/customizer.php:98
+msgid "Text color."
+msgstr ""
+
+#: customize/customizer.php:103
+msgid "Main Color"
+msgstr ""
+
+#: customize/customizer.php:104
+msgid "Applied to most links, buttons."
+msgstr ""
+
+#: customize/customizer.php:109
+msgid "Hover Color"
+msgstr ""
+
+#: customize/customizer.php:110
+msgid "Appears on hover for most elements."
+msgstr ""
+
+#: customize/customizer.php:115
+msgid "Select Main Font"
+msgstr ""
+
+#: customize/customizer.php:120
+msgid "Choose a main body text font. Default is `Lato`."
+msgstr ""
+
+#: customize/customizer.php:124
+msgid "Select Secondary Font"
+msgstr ""
+
+#: customize/customizer.php:129
+msgid "Choose a font for headings, menu. Default is `Raleway`."
+msgstr ""
+
+#: customize/customizer.php:133
+msgid "Top Navigation"
+msgstr ""
+
+#: customize/customizer.php:137
+msgid "Top Navigation Bar Styling"
+msgstr ""
+
+#: customize/customizer.php:142
+msgid "Choose `Custom` to change the top nav bar styling."
+msgstr ""
+
+#: customize/customizer.php:145
+msgid "Nav Bar Color"
+msgstr ""
+
+#: customize/customizer.php:149
+msgid "Nav Bar Opacity"
+msgstr ""
+
+#: customize/customizer.php:152
+msgid "Enter a floating point number to control the opacity of the bar."
+msgstr ""
+
+#: customize/customizer.php:156
+msgid "Nav Bar Position"
+msgstr ""
+
+#: customize/customizer.php:160
+msgid ""
+"If `top left` or `top right` menus have been set, this setting will have no "
+"effect and the main navigation will always show above the banner/slideshow."
+msgstr ""
+
+#: customize/customizer.php:164
+msgid "Enable Parent Node"
+msgstr ""
+
+#: customize/customizer.php:168
+msgid "Yes"
+msgstr ""
+
+#: customize/customizer.php:168
+msgid "No (Default)"
+msgstr ""
+
+#: customize/customizer.php:173
+msgid "Front Page"
+msgstr ""
+
+#: customize/customizer.php:177
+msgid "Front Page Header"
+msgstr ""
+
+#: customize/customizer.php:181
+msgid "Image Banner (Default)"
+msgstr ""
+
+#: customize/customizer.php:182
+msgid "Full Screen Image"
+msgstr ""
+
+#: customize/customizer.php:183
+msgid "As-is Simple Responsive Image Banner (No Parallax)"
+msgstr ""
+
+#: customize/customizer.php:184
+msgid "Video Banner"
+msgstr ""
+
+#: customize/customizer.php:185
+msgid "Full Screen Video"
+msgstr ""
+
+#: customize/customizer.php:186
+msgid "Image/Video Slideshow"
+msgstr ""
+
+#: customize/customizer.php:187
+msgid "Full Screen Image/Video Slideshow"
+msgstr ""
+
+#: customize/customizer.php:188
+msgid ""
+"Image Banner is shown by default. Go into `Front page - Banner` to set up "
+"the banner."
+msgstr ""
+
+#: customize/customizer.php:192
+msgid "Show Main Content Area?"
+msgstr ""
+
+#: customize/customizer.php:197
+msgid ""
+"Choose whether you want to display the page content area on front page - "
+"applies when the front page is set to display a static page under Settings-"
+">Reading. Shown by default."
+msgstr ""
+
+#: customize/customizer.php:201
+msgid "Show Call to Action Section?"
+msgstr ""
+
+#: customize/customizer.php:206
+msgid ""
+"Choose whether you want to display the dark CTA section on the front page - "
+"applies when the front page is set to display a static page under Settings-"
+">Reading. Shown by default. Go into `Front Page - CTA Section` to set up "
+"this section."
+msgstr ""
+
+#: customize/customizer.php:209
+msgid "Show Call to Action #2 Section?"
+msgstr ""
+
+#: customize/customizer.php:214
+msgid ""
+"Choose whether you want to display the second Call to Action section on the "
+"front page - applies when the front page is set to display a static page "
+"under Settings->Reading. Shown by default."
+msgstr ""
+
+#: customize/customizer.php:217
+msgid "Show the 4 Icon Columns Section?"
+msgstr ""
+
+#: customize/customizer.php:222
+msgid ""
+"Choose whether to display the section containing 4 columns, each linking to "
+"a page - applies when the front page is set to display a static page under "
+"Settings->Reading. Shown by default. Go into `Front Page - Icon Columns` to "
+"set up this section."
+msgstr ""
+
+#: customize/customizer.php:226
+msgid "Show Open Content Area?"
+msgstr ""
+
+#: customize/customizer.php:231
+msgid ""
+"Choose whether to display the open content section - applies when the front "
+"page is set to display a static page under Settings->Reading. You can enter "
+"HTML and/or shortcodes in this area. Shown by default. Go into `Front Page - "
+"Open Content` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:235
+msgid "Show the Featured Pages Section?"
+msgstr ""
+
+#: customize/customizer.php:240
+msgid ""
+"Choose whether to display the featured pages section - applies when the "
+"front page is set to display a static page under Settings->Reading. Shown by "
+"default. Go into `Front Page - Featured Pages` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:244
+msgid "Show the Testimonials Section?"
+msgstr ""
+
+#: customize/customizer.php:249
+msgid ""
+"Choose whether to display the testimonials section - applies when the front "
+"page is set to display a static page under Settings->Reading. Shown by "
+"default. Go into `Front Page - Testimonials` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:253
+msgid "Show the Team Section?"
+msgstr ""
+
+#: customize/customizer.php:258
+msgid ""
+"Choose whether to display the team section - applies when the front page is "
+"set to display a static page under Settings->Reading. Shown by default. Go "
+"into `Front Page - Team` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:262
+msgid "Show the Logos Section?"
+msgstr ""
+
+#: customize/customizer.php:267
+msgid ""
+"Choose whether to display the partners/clients/logo section - applies when "
+"the front page is set to display a static page under Settings->Reading. "
+"Shown by default. Go into `Front Page - Logos` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:271
+msgid "Show the Latest Posts Section?"
+msgstr ""
+
+#: customize/customizer.php:276
+msgid ""
+"Choose whether to display the latest blog posts - applies when the front "
+"page is set to display a static page under Settings->Reading. Shown by "
+"default. Go into `Front Page - Latest Posts` to set up this section."
+msgstr ""
+
+#: customize/customizer.php:280
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Front Page - Row Positions"
+msgstr ""
+
+#: customize/customizer.php:284
+msgid "Main Content"
+msgstr ""
+
+#: customize/customizer.php:291
+msgid "Call to Action (Dark)"
+msgstr ""
+
+#: customize/customizer.php:297
+msgid "Call to Action #2"
+msgstr ""
+
+#: customize/customizer.php:303
+msgid "Icon Columns"
+msgstr ""
+
+#: customize/customizer.php:310
+msgid "Open Content"
+msgstr ""
+
+#: customize/customizer.php:317 customize/theme-defaults.php:117
+msgid "Featured Pages"
+msgstr ""
+
+#: customize/customizer.php:324 customize/theme-defaults.php:166
+msgid "Testimonials"
+msgstr ""
+
+#: customize/customizer.php:331
+msgid "Team"
+msgstr ""
+
+#: customize/customizer.php:338
+msgid "Logos/Partners"
+msgstr ""
+
+#: customize/customizer.php:345 customize/theme-defaults.php:206
+msgid "Latest Posts"
+msgstr ""
+
+#: customize/customizer.php:352
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Front Page - Banner"
+msgstr ""
+
+#: customize/customizer.php:356
+msgid "Upload Frontpage Banner"
+msgstr ""
+
+#: customize/customizer.php:359
+msgid "If not uploaded, the Header Image will be displayed (if available)."
+msgstr ""
+
+#: customize/customizer.php:366
+msgid "Enter the absolute URL for the video banner file."
+msgstr ""
+
+#: customize/customizer.php:370
+msgid "Upload Fallback Banner/Image"
+msgstr ""
+
+#: customize/customizer.php:373
+msgid ""
+"Must be specified if a video banner is chosen. This fallback image will show "
+"up in place of the video on touch and mobile devices."
+msgstr ""
+
+#: customize/customizer.php:380
+msgid "Displayed as a heading on the frontpage banner image."
+msgstr ""
+
+#: customize/customizer.php:386
+msgid ""
+"Displayed under the main heading on the frontpage banner image. Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:389 customize/customizer.php:517
+#: customize/customizer.php:554
+msgid "Background / Filter Color"
+msgstr ""
+
+#: customize/customizer.php:390
+msgid ""
+"This color will be used as the overlay/filter. Leave this as blank to remove "
+"the filter."
+msgstr ""
+
+#: customize/customizer.php:397 customize/customizer.php:568
+#: customize/customizer.php:661 customize/customizer.php:733
+#: customize/customizer.php:799 customize/customizer.php:899
+msgid "General"
+msgstr ""
+
+#: customize/customizer.php:401
+msgid "Number of Slides"
+msgstr ""
+
+#: customize/customizer.php:406 customize/customizer.php:742
+msgid "Default = 5."
+msgstr ""
+
+#: customize/customizer.php:411 customize/customizer.php:415
+#: customize/customizer.php:455 customize/customizer.php:464
+#: customize/customizer.php:473 customize/customizer.php:482
+msgid "Slide "
+msgstr ""
+
+#: customize/customizer.php:418
+msgid ""
+"Slide image. Will serve as fallback image if a video is specified in the "
+"next field."
+msgstr ""
+
+#: customize/customizer.php:424
+msgid "Slide video."
+msgstr ""
+
+#: customize/customizer.php:431
+msgid "Slide main heading."
+msgstr ""
+
+#: customize/customizer.php:438
+msgid "Displayed under the main heading on the slide. Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:444
+msgid "Slide button label."
+msgstr ""
+
+#: customize/customizer.php:451
+msgid "Link for the slide button."
+msgstr ""
+
+#: customize/customizer.php:460
+msgid "Alignment for the slide heading, text, and button."
+msgstr ""
+
+#: customize/customizer.php:469
+msgid "The animate.css class for the slide heading."
+msgstr ""
+
+#: customize/customizer.php:478
+msgid "The animate.css class for the slide text."
+msgstr ""
+
+#: customize/customizer.php:487
+msgid "The animate.css class for the slide button."
+msgstr ""
+
+#: customize/customizer.php:493
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Front Page - CTA Section"
+msgstr ""
+
+#: customize/customizer.php:500 customize/customizer.php:537
+msgid ""
+"Select the page where you have entered the text to display on the frontpage "
+"call to action section."
+msgstr ""
+
+#: customize/customizer.php:503 customize/customizer.php:540
+msgid "Enable Parallax?"
+msgstr ""
+
+#: customize/customizer.php:508 customize/customizer.php:545
+msgid ""
+"Turn this on to show an image in the background of this section with the "
+"parallax effect. Requires an image to be uploaded in the next setting."
+msgstr ""
+
+#: customize/customizer.php:511 customize/customizer.php:548
+msgid "Background Image"
+msgstr ""
+
+#: customize/customizer.php:514 customize/customizer.php:551
+msgid "Background image for this section."
+msgstr ""
+
+#: customize/customizer.php:518 customize/customizer.php:555
+msgid ""
+"If no background image is provided, this background color will be used for "
+"the CTA. If a background image is provided, then this color will be used as "
+"the overlay/filter. Leave this as blank to remove the filter."
+msgstr ""
+
+#: customize/customizer.php:525 customize/customizer.php:562
+#: customize/customizer.php:607 customize/customizer.php:655
+#: customize/customizer.php:694 customize/customizer.php:760
+#: customize/customizer.php:832 customize/customizer.php:932
+#: customize/customizer.php:979
+msgid ""
+"ID for this section - if you want the user to be able to scroll down to this "
+"section."
+msgstr ""
+
+#: customize/customizer.php:529
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Frontpage - CTA Section #2"
+msgstr ""
+
+#: customize/customizer.php:572
+msgid "Number of Columns"
+msgstr ""
+
+#: customize/customizer.php:577 customize/customizer.php:808
+msgid "Default = 4."
+msgstr ""
+
+#: customize/customizer.php:584
+msgid "Heading to be displayed for this section."
+msgstr ""
+
+#: customize/customizer.php:591 customize/customizer.php:684
+#: customize/customizer.php:822 customize/customizer.php:922
+msgid "Text to be displayed under the heading. Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:594
+msgid "`Read More` Label"
+msgstr ""
+
+#: customize/customizer.php:597
+msgid "The label for the `Read More` button. Leave blank to hide button."
+msgstr ""
+
+#: customize/customizer.php:600 customize/customizer.php:648
+#: customize/customizer.php:687 customize/customizer.php:753
+#: customize/customizer.php:825 customize/customizer.php:925
+#: customize/customizer.php:972
+msgid "Background Color"
+msgstr ""
+
+#: customize/customizer.php:611
+msgid "Icon Column "
+msgstr ""
+
+#: customize/customizer.php:618
+msgid "Icon for column "
+msgstr ""
+
+#: customize/customizer.php:626
+msgid "Select the page for the column "
+msgstr ""
+
+#: customize/customizer.php:631
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Front Page - Open Content"
+msgstr ""
+
+#: customize/customizer.php:638
+msgid "Heading to display for this section."
+msgstr ""
+
+#: customize/customizer.php:645
+msgid ""
+"Select the page where you have entered the text to display on the frontpage "
+"open content section. "
+msgstr ""
+
+#: customize/customizer.php:665
+msgid "Number of Featured Pages"
+msgstr ""
+
+#: customize/customizer.php:670 customize/customizer.php:963
+msgid "Default = 3."
+msgstr ""
+
+#: customize/customizer.php:677
+msgid "Heading to be displayed for the featured pages section."
+msgstr ""
+
+#: customize/customizer.php:698 customize/theme-defaults.php:159
+msgid "Featured Page "
+msgstr ""
+
+#: customize/customizer.php:702
+msgid "Page "
+msgstr ""
+
+#: customize/customizer.php:705
+msgid "Page/column image."
+msgstr ""
+
+#: customize/customizer.php:712
+msgid ""
+"Enter URL you want to link the page to. Leave blank if you do not wish to "
+"link it."
+msgstr ""
+
+#: customize/customizer.php:719
+msgid "Enter the heading for this page."
+msgstr ""
+
+#: customize/customizer.php:726
+msgid ""
+"Enter the text/description to show under the heading for this page. Accepts "
+"HTML."
+msgstr ""
+
+#: customize/customizer.php:737
+msgid "Number of Testimonials"
+msgstr ""
+
+#: customize/customizer.php:746
+msgid "Heading"
+msgstr ""
+
+#: customize/customizer.php:750
+msgid "Heading to be displayed for the testimonials section."
+msgstr ""
+
+#: customize/customizer.php:764 customize/customizer.php:768
+msgid "Testimonial "
+msgstr ""
+
+#: customize/customizer.php:771
+msgid "Testimonial image. Recommended size 165x165."
+msgstr ""
+
+#: customize/customizer.php:777
+msgid "Testimonial company name."
+msgstr ""
+
+#: customize/customizer.php:784
+msgid "Testimonial client name."
+msgstr ""
+
+#: customize/customizer.php:791
+msgid "Testimonial content/text."
+msgstr ""
+
+#: customize/customizer.php:803
+msgid "Number of Team Members"
+msgstr ""
+
+#: customize/customizer.php:815
+msgid "Heading to be displayed for the team section."
+msgstr ""
+
+#: customize/customizer.php:836 customize/customizer.php:840
+msgid "Team Member "
+msgstr ""
+
+#: customize/customizer.php:843
+msgid "Team member photo."
+msgstr ""
+
+#: customize/customizer.php:850
+msgid "Enter the team member's name."
+msgstr ""
+
+#: customize/customizer.php:857
+msgid "Enter the team member's position."
+msgstr ""
+
+#: customize/customizer.php:864
+msgid ""
+"Enter URL you want to link the team member to. Leave blank if you do not "
+"wish to link the team member."
+msgstr ""
+
+#: customize/customizer.php:871
+msgid ""
+"Enter the social media link for this team member, for example Facebook page, "
+"Twitter URL, LinkedIn page, etc."
+msgstr ""
+
+#: customize/customizer.php:878 customize/customizer.php:892
+msgid ""
+"Enter the icon to display for this social media link. See http://fontawesome."
+"io/icons/ for full list of supported icons."
+msgstr ""
+
+#: customize/customizer.php:885
+msgid ""
+"Enter another social media link for this team member, for example Facebook "
+"page, Twitter URL, LinkedIn page, etc."
+msgstr ""
+
+#: customize/customizer.php:903
+msgid "Number of Logos"
+msgstr ""
+
+#: customize/customizer.php:908
+msgid "Default = 6."
+msgstr ""
+
+#: customize/customizer.php:915
+msgid "Heading to be displayed for the logos/partners section."
+msgstr ""
+
+#: customize/customizer.php:935 customize/customizer.php:939
+msgid "Logo "
+msgstr ""
+
+#: customize/customizer.php:942
+msgid "Logo image."
+msgstr ""
+
+#: customize/customizer.php:949
+msgid ""
+"Enter URL you want to link the logo to. Leave blank if you do not wish to "
+"link the logo."
+msgstr ""
+
+#: customize/customizer.php:954
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Front Page - Latest Posts"
+msgstr ""
+
+#: customize/customizer.php:958
+msgid "Number of Posts"
+msgstr ""
+
+#: customize/customizer.php:969
+msgid "Heading to display for section."
+msgstr ""
+
+#: customize/customizer.php:985
+msgid "Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:989 customize/customizer.php:1105
+msgid "Show Meta Information?"
+msgstr ""
+
+#: customize/customizer.php:994
+msgid ""
+"Choose whether you want to show the date, author, and category for each post "
+"in the blog feed. Shown by default."
+msgstr ""
+
+#: customize/customizer.php:998 customize/customizer.php:1114
+msgid "Show Date?"
+msgstr ""
+
+#: customize/customizer.php:1003
+msgid ""
+"Choose whether you want to show the date for each post in the blog feed. "
+"Shown by default."
+msgstr ""
+
+#: customize/customizer.php:1007 customize/customizer.php:1123
+msgid "Show Category?"
+msgstr ""
+
+#: customize/customizer.php:1012
+msgid ""
+"Choose whether you want to show the category for each post in the blog feed. "
+"Shown by default."
+msgstr ""
+
+#: customize/customizer.php:1016 customize/customizer.php:1132
+msgid "Show Author?"
+msgstr ""
+
+#: customize/customizer.php:1021
+msgid ""
+"Choose whether you want to show the author for each post in the blog feed. "
+"Hidden by default."
+msgstr ""
+
+#: customize/customizer.php:1025 customize/customizer.php:1159
+#: customize/customizer.php:1199
+msgid "Show Sidebar?"
+msgstr ""
+
+#: customize/customizer.php:1030
+msgid ""
+"Sidebar is shown by default. If the sidebar is hidden, then the blog will be "
+"shown in a two-column layout."
+msgstr ""
+
+#: customize/customizer.php:1034
+msgid "Select Post Display Format"
+msgstr ""
+
+#: customize/customizer.php:1039
+msgid ""
+"Choose how you want to display each post in the blog feed. `Small Image "
+"Left, Excerpt Right` by default. This setting only applies when `Show "
+"Sidebar?` is set to `Yes` above."
+msgstr ""
+
+#: customize/customizer.php:1043
+msgid "Blog Feed Banner"
+msgstr ""
+
+#: customize/customizer.php:1048 customize/customizer.php:1155
+#: customize/customizer.php:1195
+msgid ""
+"The Custom Header can be set from the `Header Image` section. Custom Header "
+"is shown as the banner by default."
+msgstr ""
+
+#: customize/customizer.php:1056
+msgid ""
+"Whether or not to enable animations for the blog page. Requires that the "
+"animations be turned on in the `General Setup` section. By default, "
+"animations are enabled."
+msgstr ""
+
+#: customize/customizer.php:1059
+msgid "Show Post Buttons?"
+msgstr ""
+
+#: customize/customizer.php:1064
+msgid ""
+"Select No to hide the `Read More`, `Comments` buttons for posts. Shown by "
+"default."
+msgstr ""
+
+#: customize/customizer.php:1067
+msgid "`Read Me` Button Label"
+msgstr ""
+
+#: customize/customizer.php:1070
+msgid "The words to show on the `Read More` button for posts."
+msgstr ""
+
+#: customize/customizer.php:1073
+msgid "`Comment` Button Label"
+msgstr ""
+
+#: customize/customizer.php:1076
+msgid "The words to show on the `Comment` (singular) button for posts."
+msgstr ""
+
+#: customize/customizer.php:1079
+msgid "`Comments` Button Label"
+msgstr ""
+
+#: customize/customizer.php:1082
+msgid "The words to show on the `Comments` (plural) button for posts."
+msgstr ""
+
+#: customize/customizer.php:1085
+msgid "`Leave Comment` Button Label"
+msgstr ""
+
+#: customize/customizer.php:1088
+msgid ""
+"The words to show on the `Leave Comment` (when there are no comments) button "
+"for posts."
+msgstr ""
+
+#: customize/customizer.php:1092
+msgid "Blog Post"
+msgstr ""
+
+#: customize/customizer.php:1096 customize/customizer.php:1181
+msgid "Heading/Title Location:"
+msgstr ""
+
+#: customize/customizer.php:1100 customize/customizer.php:1185
+msgid "Inside Banner + Above Content (Default)"
+msgstr ""
+
+#: customize/customizer.php:1100 customize/customizer.php:1185
+msgid "Just Inside Banner"
+msgstr ""
+
+#: customize/customizer.php:1100 customize/customizer.php:1185
+msgid "Just Above Content"
+msgstr ""
+
+#: customize/customizer.php:1101
+msgid "Choose where you want to show the post title."
+msgstr ""
+
+#: customize/customizer.php:1110
+msgid ""
+"Choose whether you want to show the date, author, and category on the posts "
+"page. Shown by default."
+msgstr ""
+
+#: customize/customizer.php:1119
+msgid ""
+"Choose whether you want to show the date on the post page. Shown by default."
+msgstr ""
+
+#: customize/customizer.php:1128
+msgid ""
+"Choose whether you want to show the category on the post page. Shown by "
+"default."
+msgstr ""
+
+#: customize/customizer.php:1137
+msgid ""
+"Choose whether you want to show the author on the post page. Hidden by "
+"default."
+msgstr ""
+
+#: customize/customizer.php:1141
+msgid "Show Tags?"
+msgstr ""
+
+#: customize/customizer.php:1146
+msgid ""
+"Choose whether you want to show the tags on the post page. Hidden by default."
+msgstr ""
+
+#: customize/customizer.php:1150
+msgid "Post Banner"
+msgstr ""
+
+#: customize/customizer.php:1164 customize/customizer.php:1204
+msgid "Sidebar is shown by default."
+msgstr ""
+
+#: customize/customizer.php:1168
+msgid "Show Featured Image?"
+msgstr ""
+
+#: customize/customizer.php:1173
+msgid "Whether to show the featured image at the beginning of the post."
+msgstr ""
+
+#: customize/customizer.php:1177
+msgid "Pages"
+msgstr ""
+
+#: customize/customizer.php:1186
+msgid "Choose where you want to show the page title."
+msgstr ""
+
+#: customize/customizer.php:1190
+msgid "Page Banner"
+msgstr ""
+
+#: customize/customizer.php:1208
+msgid "Advanced Settings"
+msgstr ""
+
+#: customize/customizer.php:1212
+msgid "Custom CSS"
+msgstr ""
+
+#: customize/customizer.php:1216
+msgid "Custom CSS code."
+msgstr ""
+
+#: customize/customizer.php:1222
+msgid "Colors and Fonts"
+msgstr ""
+
+#: customize/theme-defaults.php:108
+msgid "Frontpage Banner Heading"
+msgstr ""
+
+#: customize/theme-defaults.php:118
+msgid "READ MORE"
+msgstr ""
+
+#: customize/theme-defaults.php:119
+msgid ""
+"Etiam sed eleifend tellus. Curabitur volutpat feugiat congue. Suspendisse "
+"potenti. Aenean rhoncus nunc id semper mollis. Aenean pulvinar, leo non "
+"elementum sollicitudin, enim neque viverra neque, quis consequat orci tellus "
+"vitae libero. Quisque et metus ultricies, malesuada turpis nec, malesuada "
+"enim. Nunc maximus tincidunt erat vitae vehicula. Morbi eget vehicula leo. "
+"Nulla interdum eros vel quam pellentesque lacinia. Integer non porta nunc."
+msgstr ""
+
+#: customize/theme-defaults.php:132
+msgid "Content Heading"
+msgstr ""
+
+#: customize/theme-defaults.php:153
+msgid "Theme Features"
+msgstr ""
+
+#: customize/theme-defaults.php:154
+msgid ""
+"Aenean vulputate gravida purus, non condimentum arcu scelerisque sit amet. "
+"Donec sodales mauris at vestibulum laoreet. Donec fringilla porttitor "
+"pulvinar."
+msgstr ""
+
+#: customize/theme-defaults.php:160
+msgid ""
+"Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+
+#: customize/theme-defaults.php:170
+msgid "Company "
+msgstr ""
+
+#: customize/theme-defaults.php:171
+msgid "Client "
+msgstr ""
+
+#: customize/theme-defaults.php:172
+msgid ""
+"Maecenas aliquet lectus sodales, hendrerit nisi ac, tempus tortor. Curabitur "
+"tempus lorem sit amet odio vehicula consequat. Phasellus molestie nibh vitae "
+"ligula euismod fringilla. Praesent in erat diam. Proin aliquam dui sit amet "
+"diam euismod pulvinar. Vestibulum tempus scelerisque metus bibendum feugiat. "
+"Morbi vitae odio ex. Nam vulputate nisi erat, faucibus ullamcorper ligula "
+"fringilla luctus."
+msgstr ""
+
+#: customize/theme-defaults.php:178
+msgid "Our Team"
+msgstr ""
+
+#: customize/theme-defaults.php:179
+msgid ""
+"Maecenas aliquet lectus sodales, hendrerit nisi ac, tempus tortor. Curabitur "
+"tempus lorem sit amet odio vehicula consequat. Phasellus molestie nibh vitae "
+"ligula euismod fringilla."
+msgstr ""
+
+#: customize/theme-defaults.php:183
+msgid "Member "
+msgstr ""
+
+#: customize/theme-defaults.php:184
+msgid "Position "
+msgstr ""
+
+#: customize/theme-defaults.php:195
+msgid "Our Partners"
+msgstr ""
+
+#: customize/theme-defaults.php:196
+msgid ""
+"Etiam sed eleifend tellus. Curabitur volutpat feugiat congue. Suspendisse "
+"potenti. Aenean rhoncus nunc id semper mollis. Aenean pulvinar, leo non "
+"elementum sollicitudin, enim neque viverra neque, quis consequat orci tellus "
+"vitae libero. Quisque et metus ultricies, malesuada turpis nec, malesuada "
+"enim."
+msgstr ""
+
+#: customize/theme-defaults.php:246
+msgid ""
+"<a href=\"https://www.lyrathemes.com/vega-pro/\">Vega Pro Wordpress Theme</"
+"a> by <a href=\"https://www.lyrathemes.com\">LyraThemes</a>"
+msgstr ""
+
+#: front-page.php:93 index.php:44
+msgid "No posts found."
+msgstr ""
+
+#: functions.php:39
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:42
+msgid "Top Right - Social"
+msgstr ""
+
+#: functions.php:359
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:361
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:368
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:370
+msgid "Add widgets here to appear in the sidebar on pages."
+msgstr ""
+
+#: functions.php:377
+msgid "Posts Sidebar"
+msgstr ""
+
+#: functions.php:379
+msgid "Add widgets here to appear in the sidebar on posts."
+msgstr ""
+
+#: functions.php:386
+msgid "Footer Col 1"
+msgstr ""
+
+#: functions.php:388
+msgid "Add widgets here to appear in the first column of the footer."
+msgstr ""
+
+#: functions.php:395
+msgid "Footer Col 2"
+msgstr ""
+
+#: functions.php:397
+msgid "Add widgets here to appear in the second column of the footer."
+msgstr ""
+
+#: functions.php:404
+msgid "Footer Col 3"
+msgstr ""
+
+#: functions.php:406
+msgid "Add widgets here to appear in the third column of the footer."
+msgstr ""
+
+#: functions.php:413
+msgid "Footer Col 4"
+msgstr ""
+
+#: functions.php:415
+msgid "Add widgets here to appear in the fourth column of the footer."
+msgstr ""
+
+#: functions.php:501
+msgid "Page ID: "
+msgstr ""
+
+#: functions.php:504 page-full-width.php:29 page.php:33 parts/content.php:43
+#: single.php:33 template-full-width.php:29
+msgid "Post ID: "
+msgstr ""
+
+#: functions.php:510
+msgid "Tag: "
+msgstr ""
+
+#: functions.php:513
+msgid "Author: "
+msgstr ""
+
+#: functions.php:516
+msgid "Day: "
+msgstr ""
+
+#: functions.php:519
+msgid "Month: "
+msgstr ""
+
+#: functions.php:522
+msgid "Year: "
+msgstr ""
+
+#: functions.php:525
+msgid "Not Found!"
+msgstr ""
+
+#: functions.php:528
+msgid "Search Results: "
+msgstr ""
+
+#: functions.php:530
+msgid "Shop"
+msgstr ""
+
+#: functions.php:533
+msgid "Archives"
+msgstr ""
+
+#: functions.php:659
+msgid "Welcome"
+msgstr ""
+
+#: parts/content-recent.php:34 parts/content.php:41
+msgid "ID: "
+msgstr ""
+
+#: parts/content-recent.php:47 parts/content.php:126 single.php:51
+msgid "Posted: "
+msgstr ""
+
+#: parts/content-recent.php:48 parts/content.php:127 single.php:52
+msgid "Under: "
+msgstr ""
+
+#: parts/content-recent.php:49 parts/content.php:128 single.php:53
+msgid "By: "
+msgstr ""
+
+#: parts/content.php:103
+msgid "View full post..."
+msgstr ""
+
+#: searchform.php:9
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:9
+msgid "Search for:"
+msgstr ""
+
+#~ msgid "UPGRADE TO PRO"
+#~ msgstr "UPGRADE TO PRO"

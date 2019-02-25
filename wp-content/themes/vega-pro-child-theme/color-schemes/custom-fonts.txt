@@ -1,0 +1,59 @@
+
+/* Custom Fonts Start */
+
+body{ font-family: ~font1~  }
+
+/* Headings
+------------------------------------------------------------------------*/
+h1,h2,h3,h4,h5,h6{ font-family: ~font2~; }
+
+/* Special Headings
+------------------------------------------------------------------------*/
+.block-title{ font-family: ~font2~ }
+
+/* Buttons
+------------------------------------------------------------------------*/
+.btn{ font-family: ~font1~ }
+
+/* Top Navigation
+------------------------------------------------------------------------*/
+.navbar-custom .navbar-nav > li > a{ font-family: ~font2~ }
+.navbar-custom .dropdown-menu > li > a{ font-family: ~font1~ }
+
+/* Blog Feed
+------------------------------------------------------------------------*/
+.blog-feed .entry .entry-meta{ font-family: ~font2~ }
+
+/* Post 
+------------------------------------------------------------------------*/
+.post-content .type-attachment .entry-meta{ font-family: ~font2~ }
+
+/* Widgets
+------------------------------------------------------------------------*/
+
+
+/* Icon List
+------------------------------------------------------------------------*/
+
+
+/* Front Page - CTA 
+------------------------------------------------------------------------*/
+.frontpage-cta p{ font-family: ~font2~; }
+.frontpage-cta p.small{ font-family: ~font2~ }
+
+/* Front Page - Recent Posts
+------------------------------------------------------------------------*/
+.recent-entry .recent-entry-meta{ font-family: ~font2~  }
+
+/* Comments
+------------------------------------------------------------------------*/
+h3#comments{ font-family: ~font2~}
+.commentlist .comment-author .fn a,
+.commentlist .comment-author .fn{font-family: ~font2~}
+#respond h3{font-family: ~font2~}
+
+/* Footer Nav
+------------------------------------------------------------------------*/
+.nav-foot li{ font-family: ~font2~ }
+
+/* Custom Fonts End */
